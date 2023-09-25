@@ -1,4 +1,4 @@
-#include<stdio.h>
+git#include<stdio.h>
 int main()
 {
 	int a,b,c;
